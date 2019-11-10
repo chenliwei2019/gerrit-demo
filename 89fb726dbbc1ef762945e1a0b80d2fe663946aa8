@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3af82fc5_536bdd6d",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1017264
+      },
+      "writtenOn": "2019-11-10T12:56:12Z",
+      "side": 1,
+      "message": "leavy last sentence only",
+      "revId": "89fb726dbbc1ef762945e1a0b80d2fe663946aa8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
