@@ -8,3 +8,4 @@ now it is better
 push again before previous push reviewed
 gupei edit again
 >>>>>>> CHANGE (316200 push again before previous review)
+test push branch setting
