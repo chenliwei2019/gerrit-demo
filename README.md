@@ -6,6 +6,6 @@ now it is better
 >>>>>>> CHANGE (d9706b now it is better)
 =======
 push again before previous push reviewed
-gupei edit again
+gupei merge conflict
 >>>>>>> CHANGE (316200 push again before previous review)
 test1
